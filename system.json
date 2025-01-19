@@ -6,8 +6,11 @@
     "author": "Blackie",
     "languages": [
         {
-            "lang": "ca",
-            "name": "Català"
+              {
+      "lang": "ca",
+      "name": "Català",
+      "path": "lang/ca.json",
+ 
         }
     ]
 }
