@@ -5,11 +5,10 @@
     "description": "Adaptació de Karma Zero per a Foundry VTT v11",
     "author": "Blackie",
     "languages": [
-        {
-              {
+    {
       "lang": "ca",
       "name": "Català",
       "path": "lang/ca.json",
- 
-        }
+    }
+    ],    
 }
