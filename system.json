@@ -17,7 +17,7 @@
     "primaryTokenAttribute": "energia",
     "url": "https://github.com/CapitanBlackjoker/karma-zero",
     "manifest": "https://raw.githubusercontent.com/CapitanBlackjoker/karma-zero/refs/heads/main/system.json",
-    "download": "https://github.com/CapitanBlackjoker/karma-zero",
+    "download": "https://raw.githubusercontent.com/CapitanBlackjoker/karma-zero",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
